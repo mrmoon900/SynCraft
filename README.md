@@ -110,7 +110,8 @@ print(result)
 
 ## Data Availability
 
-The SynCraft web server is freely accessible at https://syncraft.denglab.org without registration. Complete source code, trained models, and documentation are available at https://github.com/denglab/syncraft under the MIT License (public upon publication).
+The SynCraft web server is freely accessible at https://syncraft.denglab.org without registration. Complete source code, trained models, and documentation are available at
+https://drive.google.com/file/d/1WMW3ZnYv1jqVREd10l6nnwF2cDo10EBv/view?usp=sharing    under the MIT License (public upon publication).
 
 **Datasets:**
 
