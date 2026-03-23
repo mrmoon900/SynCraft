@@ -9,12 +9,12 @@ A short tagline describing what SynCraft does (replace this with a one-line desc
 ## Table of Contents
 
 - [About](#about)
+- [Data Availability](#data-availability)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Data Availability](#data-availability)
 - [Related tools & implementations](#related-tools--implementations)
 - [Development](#development)
 - [Testing](#testing)
@@ -26,6 +26,11 @@ A short tagline describing what SynCraft does (replace this with a one-line desc
 ## About
 
 SynCraft is a concise description of the project — what problem it solves, who it's for, and a short summary of how it works. Replace this paragraph with a short overview and goals for the repository.
+
+## Data Availability
+
+The SynCraft web server is freely accessible at https://syncraft.denglab.org without registration. Complete source code, trained models, and documentation are available at https://drive.google.com/file/d/1WMW3ZnYv1jqVREd10l6nnwF2cDo10EBv/view?usp=sharing under the MIT License (public upon publication).
+
 
 ## Features
 
@@ -108,9 +113,6 @@ result = s.run("input")
 print(result)
 ```
 
-## Data Availability
-
-The SynCraft web server is freely accessible at https://syncraft.denglab.org without registration. Complete source code, trained models, and documentation are available at https://github.com/denglab/syncraft under the MIT License (public upon publication).
 
 **Datasets:**
 
